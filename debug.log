@@ -1,0 +1,2 @@
+[1010/115042.861:ERROR:settings.cc(430)] Settings version is not 5
+[1017/102025.054:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
